@@ -1,0 +1,21 @@
+Nota Correta para Lógica do Jogo: 6.5/7
+| Aspecto                                             | Avaliação                     | Pontos |
+| --------------------------------------------------- | ----------------------------- | ------ |
+| Verificação de vitória (linhas, colunas, diagonais) | Completa e correta            | 2/2    |
+| Verificação de empate                               | Correta                       | 1/1    |
+| Alternância de jogadores                            | Funciona perfeitamente        | 1/1    |
+| Integração jogada→verificação→alternar              | Sequência correta             | 1.5/2  |
+| Robustez (reset durante modal)                      | Funcional, mas pode confundir | 1/1    |
+| Total                                               |                               | 6.5/7  |
+
+Nota Final Revisada: 17/20 (85%)
+| Critério    | Pontos | Motivo                       |
+| ----------- | ------ | ---------------------------- |
+| Design GUI  | 3.5/5  | Funcional, básica            |
+| Lógica Jogo | 6.5/7  | Excelente, sem bugs críticos |
+| Eventos     | 4/4    | Perfeita                     |
+| Estados     | 2/2    | Completa                     |
+| Organização | 4.5/5  | Muito boa                    |
+| Total       | 17/20  | Aprovado com distinção       |
+
+o código está muito bem feito. O único "defeito" é estético/robustez (reset durante JOptionPane), mas funcionalmente é excelente para um TP. Parabéns!
